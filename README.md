@@ -25,7 +25,7 @@ ML engineering at **Motive** on the annotation-to-deployment pipeline, and softw
 
 ## Selected work
 
-**FinEval - LLM Financial Reasoning Benchmark**
+**[FinEval - LLM Financial Reasoning Benchmark](https://github.com/Taha22152002/FinEval-LLM-Financial-Reasoning-Benchmark)**
 
 Benchmarks Gemini 3 against Fin-o1-14B on curated financial reasoning tasks, scored by an LLM-as-judge pipeline. Flask API, batch evaluation scripts, and a Next.js dashboard with per-difficulty breakdowns.
 
