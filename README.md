@@ -4,13 +4,13 @@
 
 I build LLM systems that make it to production: fine-tuning, RAG, voice agents, evaluation harnesses, and the services around them.
 
-[Portfolio](https://taha-ahmad.vercel.app) - [LinkedIn](https://linkedin.com/in/taha-ahmad-0b608a220)
+[LinkedIn](https://linkedin.com/in/taha-ahmad-0b608a220)
 
 ---
 
 ## Now
 
-AI/ML Engineer at **Symufolk**. Previously ML engineering at **Motive** on the annotation-to-deployment pipeline, and software engineering at **Aspire Analytica**. 3+ years shipping.
+AI/ML Engineer. Previously ML engineering at **Motive** on the annotation-to-deployment pipeline, and software engineering at **Aspire Analytica**. 3+ years shipping.
 
 ## Selected work
 
