@@ -10,11 +10,11 @@ I build LLM systems that make it to production: fine-tuning, RAG, voice agents, 
 
 ## Now
 
-AI/ML Engineer at **Symufolk**. Previously ML engineering at **Motive** on the annotation-to-deployment pipeline, and software engineering at **Aspire Analytica**. 3+ years shipping.
+ML engineering at **Motive** on the annotation-to-deployment pipeline, and software engineering at **Aspire Analytica**. 3+ years shipping.
 
 ## About me
 
-- 🔭 **Currently working on** LLM applications at Symufolk: fine-tuning, RAG pipelines and agentic workflows in production
+- 🔭 **Currently working on** LLM applications end to end: fine-tuning, RAG pipelines and agentic workflows
 - 🌱 **Currently learning** multi-agent orchestration with LangGraph, and rigorous LLM evaluation design
 - 👯 **Looking to collaborate on** open-source LLM evaluation harnesses and voice-agent tooling
 - 🤔 **Looking for help with** scaling fine-tuned model inference cost-effectively
@@ -25,7 +25,7 @@ AI/ML Engineer at **Symufolk**. Previously ML engineering at **Motive** on the a
 
 ## Selected work
 
-**FinEval - LLM Financial Reasoning Benchmark** | [live demo](https://fineval-financial-reasoning-benchma-alpha.vercel.app/)
+**FinEval - LLM Financial Reasoning Benchmark**
 
 Benchmarks Gemini 3 against Fin-o1-14B on curated financial reasoning tasks, scored by an LLM-as-judge pipeline. Flask API, batch evaluation scripts, and a Next.js dashboard with per-difficulty breakdowns.
 
