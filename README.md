@@ -1,4 +1,3 @@
-## Hi there 👋
 # Taha Ahmad
 
 **AI/ML Engineer - Lahore, Pakistan**
