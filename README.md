@@ -10,11 +10,22 @@ I build LLM systems that make it to production: fine-tuning, RAG, voice agents, 
 
 ## Now
 
-AI/ML Engineer. Previously ML engineering at **Motive** on the annotation-to-deployment pipeline, and software engineering at **Aspire Analytica**. 3+ years shipping.
+AI/ML Engineer at **Symufolk**. Previously ML engineering at **Motive** on the annotation-to-deployment pipeline, and software engineering at **Aspire Analytica**. 3+ years shipping.
+
+## About me
+
+- 🔭 **Currently working on** LLM applications at Symufolk: fine-tuning, RAG pipelines and agentic workflows in production
+- 🌱 **Currently learning** multi-agent orchestration with LangGraph, and rigorous LLM evaluation design
+- 👯 **Looking to collaborate on** open-source LLM evaluation harnesses and voice-agent tooling
+- 🤔 **Looking for help with** scaling fine-tuned model inference cost-effectively
+- 💬 **Ask me about** LoRA fine-tuning, RAG retrieval quality, LLM-as-a-judge evaluation, and taking AI prototypes to production
+- 📫 **How to reach me** [LinkedIn](https://linkedin.com/in/taha-ahmad-0b608a220)
+- 😄 **Pronouns** he/him
+- ⚡ **Fun fact** I fine-tuned a model to pick cricket batting orders. It disagrees with me about half the time, and it is usually right.
 
 ## Selected work
 
-**[FinEval - LLM Financial Reasoning Benchmark](https://github.com/Taha22152002/FinEval-LLM-Financial-Reasoning-Benchmark)** | [live demo](https://fineval-financial-reasoning-benchma-alpha.vercel.app/)
+**FinEval - LLM Financial Reasoning Benchmark** | [live demo](https://fineval-financial-reasoning-benchma-alpha.vercel.app/)
 
 Benchmarks Gemini 3 against Fin-o1-14B on curated financial reasoning tasks, scored by an LLM-as-judge pipeline. Flask API, batch evaluation scripts, and a Next.js dashboard with per-difficulty breakdowns.
 
@@ -51,16 +62,3 @@ Full-stack AI photo editor performing five artistic style transforms on portrait
 ## Open to
 
 AI/ML engineering roles: LLM applications, fine-tuning, RAG systems, agentic workflows. Remote or Lahore-based.
-
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
