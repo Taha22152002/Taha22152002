@@ -4,7 +4,7 @@
 
 I build LLM systems that make it to production: fine-tuning, RAG, voice agents, evaluation harnesses, and the services around them.
 
-[LinkedIn](https://linkedin.com/in/taha-ahmad-0b608a220)
+[Portfolio](https://taha-ahmad.vercel.app) · [LinkedIn](https://linkedin.com/in/taha-ahmad-0b608a220)
 
 ---
 
@@ -21,7 +21,7 @@ Before that: data annotation for autonomous-driving perception models at **Motiv
 - 👯 **Looking to collaborate on** open-source LLM evaluation harnesses and voice-agent tooling
 - 🤔 **Looking for help with** scaling fine-tuned model inference cost-effectively
 - 💬 **Ask me about** LoRA fine-tuning, RAG retrieval quality, LLM-as-a-judge evaluation, and taking AI prototypes to production
-- 📫 **How to reach me** [LinkedIn](https://linkedin.com/in/taha-ahmad-0b608a220)
+- 📫 **How to reach me** [LinkedIn](https://linkedin.com/in/taha-ahmad-0b608a220) or [taha-ahmad.vercel.app](https://taha-ahmad.vercel.app)
 - 😄 **Pronouns** he/him
 - ⚡ **Fun fact** I fine-tuned a model to pick cricket batting orders. It disagrees with me about half the time, and it is usually right.
 
