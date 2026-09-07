@@ -10,11 +10,13 @@ I build LLM systems that make it to production: fine-tuning, RAG, voice agents, 
 
 ## Now
 
-ML engineering at **Motive** on the annotation-to-deployment pipeline, and software engineering at **Aspire Analytica**. 3+ years shipping.
+**AI Engineer at Symufolk** (Oct 2025 - present, Lahore). Building and scaling production-grade AI infrastructure across computer vision, ML systems and intelligent automation pipelines - systems that hold up under real operational load.
+
+Before that: data annotation for autonomous-driving perception models at **Motive**, and two years at **Aspire Analytica** building an agentic RAG reconciliation platform (80% faster reconciliation), a FastAPI voice-AI platform for automotive dealerships (+35% bookings, -70% support cost), and backend architecture for five ERP implementations.
 
 ## About me
 
-- 🔭 **Currently working on** LLM applications end to end: fine-tuning, RAG pipelines and agentic workflows
+- 🔭 **Currently working on** production AI infrastructure at Symufolk: computer vision, ML systems and automation pipelines
 - 🌱 **Currently learning** multi-agent orchestration with LangGraph, and rigorous LLM evaluation design
 - 👯 **Looking to collaborate on** open-source LLM evaluation harnesses and voice-agent tooling
 - 🤔 **Looking for help with** scaling fine-tuned model inference cost-effectively
